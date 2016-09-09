@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "22200018856",
+    "firebase_url": "https://chathub-9776c.firebaseio.com",
+    "project_id": "chathub-9776c",
+    "storage_bucket": "chathub-9776c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22200018856:android:f498896447722caa",
+        "android_client_info": {
+          "package_name": "com.example.abov.chathub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22200018856-4qfji2h7sit4e49mlgut7u0ir2u3rjgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ejkEfkF8y1wDYi0208af6CY6pnLqe-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
